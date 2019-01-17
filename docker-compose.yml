@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  employeesweb:
+    image: ${DOCKER_REGISTRY}employeesweb
+    build:
+      context: .\EmployeesWeb
+      dockerfile: Dockerfile
