@@ -225,11 +225,11 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Employees.BLL\Employees.BLL.csproj">
+    <ProjectReference Include="..\Employees.BLL\Employees.BLL.csproj">
       <Project>{02e3005c-b38f-498b-b787-a639f8ae9885}</Project>
       <Name>Employees.BLL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Employees.DAL\Employees.DAL.csproj">
+    <ProjectReference Include="..\Employees.DAL\Employees.DAL.csproj">
       <Project>{712bebeb-b57d-4dc8-8635-bbfd1bf28501}</Project>
       <Name>Employees.DAL</Name>
     </ProjectReference>

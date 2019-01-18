@@ -7,11 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesWeb", "EmployeesWe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesWeb.Tests", "EmployeesWeb.Tests\EmployeesWeb.Tests.csproj", "{EEABD8C9-ACEA-4729-AFB7-9400D1DC943F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.DAL", "..\Employees.DAL\Employees.DAL.csproj", "{712BEBEB-B57D-4DC8-8635-BBFD1BF28501}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.DAL", "Employees.DAL\Employees.DAL.csproj", "{712BEBEB-B57D-4DC8-8635-BBFD1BF28501}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.Model", "Employees.Model\Employees.Model.csproj", "{5B524801-5A62-4853-BE41-E23A89AF4976}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.BLL", "..\Employees.BLL\Employees.BLL.csproj", "{02E3005C-B38F-498B-B787-A639F8AE9885}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees.BLL", "Employees.BLL\Employees.BLL.csproj", "{02E3005C-B38F-498B-B787-A639F8AE9885}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
